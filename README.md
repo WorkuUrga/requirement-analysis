@@ -164,7 +164,7 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 - **Improved Project Management:** Understanding the system's functionalities through use cases helps in project planning and resource allocation.
 
 **Use Case Diagram for Booking management system**
-![alt text](image-1.png)
+![Use Case Diagram for Booking management system](alx-booking-uc.png)
 
 ## **Acceptance Criteria.**
 
@@ -178,7 +178,7 @@ They ensure that all stakeholders have shared understanding of what the software
 
 Acceptance criteria focuses on user needs, helping to define the "done" state for a feature
 
-### Scope Management\*\*:
+### Scope Management:
 
 By defining what is in and out of scope for a feature, acceptance criteria help manage project scope and prevent scope creep.
 
