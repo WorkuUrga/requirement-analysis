@@ -163,4 +163,37 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 - **Supports System Design**: By outlining interactions, they assist in designing system architecture and user interfaces.
 - **Improved Project Management:** Understanding the system's functionalities through use cases helps in project planning and resource allocation.
 
+**Use Case Diagram for Booking management system**
 ![alt text](image-1.png)
+
+## **Acceptance Criteria.**
+
+Acceptance Criteria are specific conditions that a product or system must satisfy to be accepted by stakeholders, such as customers, users, or project sponsors. They play a crucial role in requirement analysis for several reasons:
+
+### Clarity or Requirements:
+
+They ensure that all stakeholders have shared understanding of what the software is expected to do.
+
+### Focus on Outcomes:
+
+Acceptance criteria focuses on user needs, helping to define the "done" state for a feature
+
+### Scope Management\*\*:
+
+By defining what is in and out of scope for a feature, acceptance criteria help manage project scope and prevent scope creep.
+
+### Quality Assurance:
+
+They act as a benchmark for testers to validate the software's functionality and usability.
+
+### Efficient Testing:
+
+It acts as a testing guide, allowing for the creation of well-defined test cases. This facilitates efficient and thorough testing, ensuring the feature works as intended.
+
+For the checkout feature in the booking management system, the acceptance criteria could include:
+
+- User can review booking details (selected date, room type, number of guests) on the checkout page.
+- User can choose a preferred payment method (e.g., credit card, debit card, online wallet).
+- Upon successful payment, the system should display a confirmation page with booking details and a unique booking reference number.
+- The system should automatically send a booking confirmation email to the customer upon successful checkout.
+- Users are notified of errors if payment fails and are given options to retry or contact support.
