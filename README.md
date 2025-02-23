@@ -13,7 +13,7 @@ The purpose of this repository is to provide a comprehensive overview of require
 - including the usecase diagram in requirement analysis.
 - Write about the importance of Acceptance Criteria in Requirement Analysis.
 
-## What is Requirement Analysis.
+## What is Requirement Analysis?
 
 **Requirement Analysis** is an important phase in the software development lify cycle(SDLC) that includes identifying, understanding and documenting the specific needs and expectations of the end-user and stakeholders. it acts as a bridge between the initial idea and the final product.
 
